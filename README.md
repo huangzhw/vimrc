@@ -9,3 +9,4 @@ vim 配置文件
 
 ####折叠插件
 >* vim支持折叠，在vim中导入文件.vim/python_fold.vim
+>* 还是使用原生的
